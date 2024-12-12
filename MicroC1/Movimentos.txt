@@ -1,0 +1,33 @@
+[
+    {
+        "nome": "danca_1",
+        "movimentos": {
+            "Cabeca": [90, 45, 30],
+            "Ombro Esquerdo": [180, 135, 90],
+            "Quadril Direito": [45, 60, 75]
+        }
+    },
+    {
+
+        "nome": "danca_2",
+        "movimentos": {
+            "Cabeca": [0, 15, 30],
+            "Ombro Esquerdo": [90, 120, 150],
+            "Quadril Direito": [0, 45, 90],
+            "Torso": [0, 180, 90]
+        }
+    },
+    {
+        "nome": "robo1",
+        "movimentos": {
+            "Ombro Esquerdo": [0, 0, 0, 0],
+            "Ombro Direito": [165, 165, 165, 165],
+	    "Braco Esquerdo": [75, 75, 75, 75],
+            "Braco Direito": [140, 140, 140, 140],
+	    "Antebraco Esquerdo": [40, 75, 5, 40],
+            "Antebraco Direito": [45, 10, 80, 45]
+        }
+    }
+
+
+]
