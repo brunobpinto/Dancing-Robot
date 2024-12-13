@@ -1,4 +1,4 @@
-![Dancing-Robot-Banner](https://github.com/user-attachments/assets/fc7acf0d-8ba8-4a3d-9c73-daed66ef3f17)
+![Dancing-Robot-Banner](https://github.com/user-attachments/assets/715fb9cd-9444-4aca-a934-df24a70c8797)
 
 # Dancing Robot  
 This project was developed as the final activity for the Microcontrollers Project class at PUC-Rio, Brazil. It showcases the integration of Arduino and MediaPipe to create a humanoid dancing robot that mimics human movements. The project was conceived as an idea aligned with this year's class theme, Interactive Art.  
