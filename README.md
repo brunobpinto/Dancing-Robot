@@ -73,9 +73,10 @@ Before running the project, make sure to correctly configure the Arduino's seria
 <br><br>
 
 ## Usage
+<div align="center">
   <img src="https://github.com/user-attachments/assets/80a54fe0-ef96-4b81-948c-8171a126a24c" alt="Interface 1" width="600"/>
   <img src="https://github.com/user-attachments/assets/2fedbf87-2d32-41d0-9361-03a2c7a82e15" alt="Interface 2" width="600"/>
-
+</div>
 
 
 ## How It Works  
